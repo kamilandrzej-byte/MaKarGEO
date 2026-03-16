@@ -1,0 +1,5 @@
+{
+  "name": "GeoLog Pro",
+  "description": "Professional geotechnical borehole logging application using Eurocode 7 (PN-EN ISO 14688) standards.",
+  "requestFramePermissions": []
+}
